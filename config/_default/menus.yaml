@@ -24,7 +24,3 @@ main:
   - name: CV
     url: static/uploads/resume.pdf
     weight: 60
-  - name: index
-    url: static/uploads/googleb87975418e64cbd9.html
-    weight: 70
-      
