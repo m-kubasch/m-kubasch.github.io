@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: M. Kubasch # Website name
+title: Madeleine Kubasch # Website name
 baseURL: 'https://m-kubasch.github.io/' # Website URL
 
 ############################
