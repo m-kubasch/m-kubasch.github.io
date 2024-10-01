@@ -23,24 +23,25 @@ role: PhD student in Applied Mathematics
 organizations:
   - name: CMAP, École polytechnique
     url: https://portail.polytechnique.edu/cmap/fr/
-  - name: MaIAGE, INRAE
-    url: https://maiage.inrae.fr
+  - name: IEES, Sorbonne Université
+    url: https://iees-paris.fr
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 # Interests to show in About widget
 interests: 
-  - Stochastic processes (SDEs with jumps, branching processes...)
-  - Model reduction
-  - Multi-layer epidemic models
+  - Stochastic processes
+  - Population dynamics
+  - Random graphs
+  - Mathematical biology 
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Applied Mathematcs
       institution: École polytechnique, Palaiseau & INRAE, Jouy-en-Josas, France
-      year: 2021 - ongoing
+      year: 2021 - 2024
     - course: MSc in Applied Mathematics
       institution: Sorbonne Université, Paris, France
       year: 2021
@@ -85,11 +86,10 @@ social:
 highlight_name: true
 ---
 
-Currently, I'm a PhD student in Applied Mathematics, under the supervision of Vincent Bansaye (CMAP, Ecole polytechnique) and Elisabeta Vergu (MaIAGE, INRAE). 
+I'm an applied mathematician working on population dynamics, particularly on random networks, arising in various fields such as epidemiology and ecology. I am highly interested in stochastic models, such as stochastic differential equations and branching processes, as well as their (deterministic) limits. 
 {style="text-align: justify;"}
 
-During my PhD, I study epidemic models with two levels of mixing, namely a global level representing the general population, and a local level which is structured in households and workplaces. A key aspect of my work focuses on proposing reduced models which approximate the epidemic dynamics of interest, while being more prone to mathematical analysis and/or numerical exploration. 
-{style="text-align: justify;"}
+Currently, I'm a postdoctoral researcher, working with [Nicolas Loeuille](https://sites.google.com/site/nicolasloeuille/home) (IEES, Sorbonne Université) and [Manon Costa](https://www.math.univ-toulouse.fr/~mcosta/) (Institut Mathématique de Toulouse). The project focuses on understanding how different agricultural landscapes shape biodiversity, and is funded by the [Chair "Modélisation Mathématique et Biodiversité"](http://www.cmap.polytechnique.fr/chaire-mmb/Aussois2024.html) (Veolia Environnement - École Polytechnique - Muséum national d’Histoire naturelle - Fondation X). 
 
-From a more theoretical point of view, my interests include for instance measure-valued processes and their convergence to (deterministic) limits which emerge at the macroscopic scale.
+During my [thesis](https://theses.fr/s299603?domaine=theses), I have considered an epidemic model with two levels of mixing, namely a uniformly mixing global level, and a local level structured into households and workplaces. Main results include insights on the epidemic footprint of the workplace size distribution, as well as the development of reduced models. This thesis was conducted under the supervision of [Vincent Bansaye](http://www.cmap.polytechnique.fr/~bansaye/) (CMAP, Ecole polytechnique) and Elisabeta Vergu (Maiage, INRAE). 
 {style="text-align: justify;"}
