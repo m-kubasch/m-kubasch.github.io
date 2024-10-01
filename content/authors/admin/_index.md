@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Applied Mathematics
+role: Postdoctoral researcher in Applied Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
