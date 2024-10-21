@@ -86,7 +86,7 @@ social:
 highlight_name: true
 ---
 
-I'm an applied mathematician working on population dynamics, particularly on random networks, arising in various fields such as epidemiology and ecology. I am highly interested in stochastic models, such as stochastic differential equations and branching processes, as well as their (deterministic) limits. 
+I'm an applied mathematician working on population dynamics, particularly on random networks, arising in various fields such as epidemiology and ecology. I am highly interested in stochastic models, such as stochastic differential equations and branching processes, and their large population limits. 
 {style="text-align: justify;"}
 
 Currently, I'm a postdoctoral researcher, working with [Nicolas Loeuille](https://sites.google.com/site/nicolasloeuille/home) (IEES, Sorbonne Université) and [Manon Costa](https://www.math.univ-toulouse.fr/~mcosta/) (Institut Mathématique de Toulouse). The project focuses on understanding how different agricultural landscapes shape biodiversity, and is funded by the [Chair "Modélisation Mathématique et Biodiversité"](http://www.cmap.polytechnique.fr/chaire-mmb/Aussois2024.html) (Veolia Environnement - École Polytechnique - Muséum national d’Histoire naturelle - Fondation X). 
