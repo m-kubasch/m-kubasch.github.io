@@ -24,7 +24,7 @@ abstract: ""
 featured: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://theses.hal.science/tel-04717689'
 url_code: ''
 url_dataset: ''
 url_poster: ''
