@@ -17,13 +17,13 @@ publication_types: ["preprint"]
 publication: "Preprint"
 publication_short: ""
 
-abstract: We study a density-dependent Markov jump process describing a population where each individual is characterized by a type, and reproduces at rates depending both on its type and on the population type distribution. 
+abstract: "We study a density-dependent Markov jump process describing a population where each individual is characterized by a type, and reproduces at rates depending both on its type and on the population type distribution. 
 First, using an appropriate change in probability, we exhibit a time-inhomogeneous Markov process, the auxiliary process, which allows to capture the behavior of a sampled lineage in the population process. 
 This is achieved through a many-to-one formula, which relates the average of a function over ancestral lineages sampled in the population processes to its average over the auxiliary process, yielding a direct interpretation of the underlying survivorship bias. 
 In addition, this construction allows for more general sampling procedures than what was previously obtained in the literature, such as sampling restricted to subpopulations. 
 Second, we consider the large population regime, when the population size grows to infinity.
 Under classical assumptions, the population type distribution can then be approached by a diffusion approximation, which captures the fluctuations of the population process around its deterministic large population limit. 
-We establish a many-to-one formula allowing to sample in the diffusion approximation, and quantify the associated approximation error. 
+We establish a many-to-one formula allowing to sample in the diffusion approximation, and quantify the associated approximation error." 
 
 1. tags:
 - Publications
