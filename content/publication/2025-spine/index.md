@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Empirical distribution of ancestral lineages in populations with density-dependent interactions"
 authors:
 - admin
 date: "2025-10-17T00:00:00Z"
@@ -15,7 +15,7 @@ publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Preprint"
-publication_short: "Empirical distribution of ancestral lineages in populations with density-dependent interactions"
+publication_short: ""
 
 abstract: "We study a density-dependent Markov jump process describing a population where each individual is characterized by a type, and reproduces at rates depending both on its type and on the population type distribution. 
 We are interested in the empirical distribution of ancestral lineages in the population process. 
