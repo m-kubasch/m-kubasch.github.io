@@ -1,8 +1,8 @@
 ---
-title: "Ancestral lineages and sampling in populations with density-dependent interactions"
+title: ""
 authors:
 - admin
-date: "2025-03-02T00:00:00Z"
+date: "2025-10-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,15 +15,16 @@ publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Preprint"
-publication_short: ""
+publication_short: "Empirical distribution of ancestral lineages in populations with density-dependent interactions"
 
 abstract: "We study a density-dependent Markov jump process describing a population where each individual is characterized by a type, and reproduces at rates depending both on its type and on the population type distribution. 
-First, using an appropriate change in probability, we exhibit a time-inhomogeneous Markov process, the auxiliary process, which allows to capture the behavior of a sampled lineage in the population process. 
-This is achieved through a many-to-one formula, which relates the average of a function over ancestral lineages sampled in the population processes to its average over the auxiliary process, yielding a direct interpretation of the underlying survivorship bias. 
-In addition, this construction allows for more general sampling procedures than what was previously obtained in the literature, such as sampling restricted to subpopulations. 
-Second, we consider the large population regime, when the population size grows to infinity.
-Under classical assumptions, the population type distribution can then be approached by a diffusion approximation, which captures the fluctuations of the population process around its deterministic large population limit. 
-We establish a many-to-one formula allowing to sample in the diffusion approximation, and quantify the associated approximation error." 
+We are interested in the empirical distribution of ancestral lineages in the population process. 
+First, we exhibit a time-inhomogeneous Markov process, which allows to capture the behavior of a sampled lineage in the population process. 
+This is achieved through a many-to-one formula, which relates the expected value of a functional evaluated over the lineages in the population process to the expectation of the functional evaluated along this time-inhomogeneous process. 
+This provides a direct interpretation of the underlying survivorship bias, as illustrated on a minimalistic population process. 
+Second, we consider the large population regime, when the population size grows to infinity. Under classical assumptions, the population type distribution converges to a deterministic limit.
+Here, we focus on the empirical distribution of ancestral lineages in this large population limit, for which we establish a many-to-one formula. 
+Using coupling arguments, we further quantify the approximation error which arises when sampling in this large population approximation instead of the finite-size population process. " 
 
 1. tags:
 - Publications
