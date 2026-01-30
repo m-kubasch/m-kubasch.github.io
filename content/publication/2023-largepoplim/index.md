@@ -14,7 +14,7 @@ doi: ""
 publication_types: ["preprint"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Preprint"
+publication: "Preprint, under minor revision for Stochastic Processes and their Applications"
 publication_short: ""
 
 abstract: We study a multilayer SIR model with two levels of mixing, namely a global level which is uniformly mixing, and a local level with two layers distinguishing household and workplace contacts, respectively. We establish the large population convergence of the corresponding stochastic process. For this purpose, we use an individual-based model whose state space explicitly takes into account the duration of infectious periods. This allows to deal with the natural correlation of the epidemic states of individuals whose household and workplace share a common infected. In a general setting where a non-exponential distribution of infectious periods may be considered, convergence to the unique deterministic solution of a measurevalued equation is obtained. In the particular case of exponentially distributed infectious periods, we show that it is possible to further reduce the obtained deterministic limit, leading to a closed, finite dimensional dynamical system capturing the epidemic dynamics. This model reduction subsequently is studied from a numerical point of view. We illustrate that the dynamical system derived from the large population approximation is a pertinent model reduction when compared to simulations of the stochastic process or to an alternative edgebased compartmental model, both in terms of accuracy and computational cost.
