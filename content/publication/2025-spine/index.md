@@ -31,7 +31,7 @@ Using coupling arguments, we further quantify the approximation error which aris
 featured: false
 
 links:
-url_pdf: 'https://m-kubasch.github.io/uploads/sampling-preprint.pdf'
+url_pdf: 'https://hal.science/hal-04972972v2'
 url_code: ''
 url_dataset: ''
 url_poster: ''
