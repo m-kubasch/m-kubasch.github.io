@@ -21,9 +21,7 @@ role: Postdoctoral researcher in Applied Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: CMAP, École polytechnique
-    url: https://portail.polytechnique.edu/cmap/fr/
-  - name: IEES, Sorbonne Université
+  - name: iEES, École polytechnique
     url: https://iees-paris.fr
 
 # Short bio (displayed in user profile at end of posts)
