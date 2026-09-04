@@ -2,8 +2,8 @@
 title: "Large Population Limit for a Multilayer SIR Model Including Households and Workplaces"
 authors:
 - admin
-date: "2023-05-01T00:00:00Z"
-doi: ""
+date: "2026-09-01T00:00:00Z"
+doi: "10.1016/j.spa.2026.105002"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
