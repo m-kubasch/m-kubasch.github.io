@@ -30,9 +30,12 @@ bio:
 # Interests to show in About widget
 interests: 
   - Stochastic processes
+  - Scaling limits
   - Population dynamics
-  - Random graphs
-  - Mathematical biology 
+  - Structured populations
+  - Ancestral lineages
+  - Theoretical ecology
+  - Mathematical epidemiology
 
 # Education to show in About widget
 education:
