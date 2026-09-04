@@ -29,7 +29,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://hal.science/hal-04012906v1
+url_pdf: https://doi.org/10.1007/s00285-024-02147-z
 url_code: 'https://forgemia.inra.fr/francois.deslandes/communityepidemics'
 url_dataset: ''
 url_poster: ''
