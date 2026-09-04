@@ -15,10 +15,10 @@ sections:
   - block: collection
     id: preprints
     content:
-      title: Publications
+      title: Preprints
       filters:
         folders:
-          - publication
+          - preprints
         exclude_featured: true
     design:
       columns: '2'
