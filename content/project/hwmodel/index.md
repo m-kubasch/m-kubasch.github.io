@@ -1,6 +1,6 @@
 ---
 title: household-workplace-model
-summary: The content of this repository is associated to the preprint "Large population limit for a multilayer SIR model including households and workplaces" (M. Kubasch, 2023). It contains both the code developed for this project, as well as the simulated data allowing to reproduce the results.
+summary: The content of this repository is associated to the paper "Large population limit for a multilayer SIR model including households and workplaces" (M. Kubasch, 2024). It contains both the code developed for this project, as well as the simulated data allowing to reproduce the results.
 #tags:
 #  - Demo
 date: "2023-07-27T00:00:00Z"
