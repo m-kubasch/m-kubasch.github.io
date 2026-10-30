@@ -64,7 +64,7 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: madeleine.kubasch@polytechnique.edu
+      email: kubasch@math.univ-paris13.fr'
     design:
       columns: '2'
       view: compact
