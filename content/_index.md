@@ -64,7 +64,7 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: kubasch@math.univ-paris13.fr'
+      email: kubasch@math.univ-paris13.fr
     design:
       columns: '2'
       view: compact
