@@ -21,8 +21,8 @@ role: Postdoctoral researcher in Applied Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: iEES, École polytechnique
-    url: https://iees-paris.fr
+  - name: LAGA, Université Sorbonne Paris Nord
+    url: https://www.math.univ-paris13.fr
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -60,7 +60,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:madeleine.kubasch@polytechnique.edu'
+    link: 'mailto:kubasch@math.univ-paris13.fr'
 #  - icon: twitter
 #    icon_pack: fab 
 #   link: https://twitter.com/GeorgeCushen
@@ -87,9 +87,11 @@ highlight_name: true
 I'm an applied mathematician working on population dynamics, particularly on random networks, arising in various fields such as epidemiology and ecology. I am highly interested in stochastic models, such as stochastic differential equations and branching processes, and their large population limits. 
 {style="text-align: justify;"}
 
-Currently, I'm a postdoctoral researcher, working with [Nicolas Loeuille](https://sites.google.com/site/nicolasloeuille/home) (IEES, Sorbonne Université) and [Manon Costa](https://www.math.univ-toulouse.fr/~mcosta/) (Institut Mathématique de Toulouse). The project focuses on understanding how different agricultural landscapes shape biodiversity, and is funded by the [Chair "Modélisation Mathématique et Biodiversité"](http://www.cmap.polytechnique.fr/chaire-mmb/Aussois2024.html) (Veolia Environnement - École Polytechnique - Muséum national d’Histoire naturelle - Fondation X). 
+Currently, I'm a postdoctoral researcher at the Laboratoire Analyse, Géométrie et Applications (LAGA), Université Sorbonne Paris Nord. The postdoc is part of the ANR JCJC project MATURE (MAThematical models for UndeRstanding ageing in the wild and its Evolutionary role) lead by [Sarah Kaakai](https://www.math.univ-paris13.fr/~kaakai/).  
+
+In my previous postdoc, I have worked with [Nicolas Loeuille](https://sites.google.com/site/nicolasloeuille/home) (IEES, Sorbonne Université) and [Manon Costa](https://www.math.univ-toulouse.fr/~mcosta/) (Institut Mathématique de Toulouse). The project has focused on understanding how different agricultural landscapes shape biodiversity, and has been funded by the [Chair "Modélisation Mathématique et Biodiversité"](http://www.cmap.polytechnique.fr/chaire-mmb/Aussois2024.html) (Veolia Environnement - École Polytechnique - Muséum national d’Histoire naturelle - Fondation X). 
 
 During my [thesis](https://theses.fr/s299603?domaine=theses), I have considered an epidemic model with two levels of mixing, namely a uniformly mixing global level, and a local level structured into households and workplaces. Main results include insights on the epidemic footprint of the workplace size distribution, as well as the development of reduced models. This thesis was conducted under the supervision of [Vincent Bansaye](http://www.cmap.polytechnique.fr/~bansaye/) (CMAP, Ecole polytechnique) and Elisabeta Vergu (Maiage, INRAE). 
 
-In 2024, I have been chosen as one of the [L'Oréal-UNESCO For Women in Science Young Talents France 2024](https://www.fondationloreal.com/sites/default/files/2024-10/cp_prix_jeunes_talents_2024_l_oreal-unesco_for_women_in_science_vdef.pdf), together with 34 other amaizing French women scientists at the doctoral or post-doctoral level. 
+In 2024, I have been chosen as one of the [L'Oréal-UNESCO For Women in Science Young Talents France 2024](https://www.fondationloreal.com/sites/default/files/2024-10/cp_prix_jeunes_talents_2024_l_oreal-unesco_for_women_in_science_vdef.pdf), together with 34 other amazing French women scientists at the doctoral or post-doctoral level. 
 {style="text-align: justify;"}
